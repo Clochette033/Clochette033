@@ -1,0 +1,255 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "liste": {
+      "type": "rich-text",
+      "blocks": {
+        "faq-0": {
+          "type": "headingt",
+          "settings": {
+            "title": "Questions fréquemment posées sur:",
+            "text": ""
+			 }
+        },
+        "faq-1": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Question sur les retours et  les échanges:",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "faq-1-1": {
+          "type": "question",
+          "settings": {
+            "title": "Si je commande un maillot en ligne, est-ce que je peux le retourner s’il ne fait pas ?",
+            "text": "<p>Oui certainement! vous devez simplement vous assurer que l'étiquette est encore sur le vêtement et que le collant hygiénique est toujours dans la « fourche » du maillot.<\/p><p><a href=\"https:\/\/sportiveplus.com\/pages\/exchange-return-and-refund-policy\" target=\"_blank\" title=\"Politique d'échange, de retour et de remboursement\">Pour en savoir plus visité notre Politique d'échange, de retour et de remboursement<\/a><\/p>"
+          }
+        },
+        "faq-1-2": {
+          "type": "question",
+          "settings": {
+            "title": "Est-ce que je peux retourner des articles en rabais ?",
+            "text": "<p>Oui mais le rabais doit être inférieur à 50%.  Tout vêtement en rabais à 50% et plus, est considéré comme une vente finale.<\/p><p><a href=\"https:\/\/sportiveplus.com\/pages\/exchange-return-and-refund-policy\" target=\"_blank\" title=\"Politique d'échange, de retour et de remboursement\">Pour en savoir plus visité notre Politique d'échange, de retour et de remboursement<\/a><\/p>"
+          }
+        },
+        "faq-1-3": {
+          "type": "question",
+          "settings": {
+            "title": "Est-ce que je peux me faire rembourser en magasin si je fais un ramassage en boutique ?",
+            "text": "<p>Oui bien sûr.  Cette méthode a été mise en place pour cette raison.  Elle vous permet de « réserver » les items en les achetant en ligne, en les récupérant en magasin, vous pourrez essayer et rembourser si ça ne convient pas.  Même les items en rabais à 50% et plus, sont remboursables dans ce cas-ci.<\/p><p><a href=\"https:\/\/sportiveplus.com\/pages\/exchange-return-and-refund-policy\" target=\"_blank\" title=\"Politique d'échange, de retour et de remboursement\">Pour en savoir plus visité notre Politique d'échange, de retour et de remboursement<\/a><\/p>"
+          }
+		  },
+        "faq-1-4": {
+          "type": "question",
+          "settings": {
+            "title": "Si je commande en ligne, est-ce que je peux me faire rembourser en magasin ?",
+            "text": "<p>a.	Oui sans problème.  Vous n'avez qu'à amener vos vêtements dans l'une de nos 4 boutiques dans un délai de 15 jours suivant la réception du colis.  Ils ne doivent pas avoir été lavés, ni portés et leurs étiquettes doivent être encore sur le vêtement.<\/p><p><a href=\"https:\/\/sportiveplus.com\/pages\/exchange-return-and-refund-policy\" target=\"_blank\" title=\"Politique d'échange, de retour et de remboursement\">Pour en savoir plus visité notre Politique d'échange, de retour et de remboursement<\/a><\/p>"
+          }
+        },
+        "faq-2": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Livraison et ramassage en boutique:",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "faq-2-1": {
+          "type": "question",
+          "settings": {
+            "title": "Comment ça fonctionne si je veux récupérer ma commande en boutique ?",
+            "text": "<p>Pour ce faire, vous devez cocher l'option « ramassage en boutique » lors de votre paiement en ligne.  Veuillez noter que seuls les vêtements disponibles à la boutique choisie pourront être récupérés en boutique, sinon vous n'aurez que l'option « livraison ».  Suite au paiement en ligne, la boutique sélectionnée recevra la commande et vous enverra une notification lorsqu'elle sera prête à être ramassée.<\/p>"
+          }
+        },
+        "faq-3": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Question sur les Commande:",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "faq-3-1": {
+          "type": "question",
+          "settings": {
+            "title": "Je veux suivre ma commande.",
+            "text": "Lors de l'emballage de votre commande, votre étiquette a été créée.  Vous devriez alors avoir reçu une notification avec votre numéro de repérage Poste Canada.  Si ce n'est pas le cas, vous pouvez : nous écrire directement sur le clavardage de notre site web, nous écrire un courriel à info@sportiveplus.com, ou encore téléphoner le service à la clientèle au (450) 456-3580.   Nous vous l'enverrons avec plaisir!"
+          }
+        },
+        "faq-3-2": {
+          "type": "question",
+          "settings": {
+            "title": "Je veux annuler ma commande.",
+            "text": "Vous pouvez : nous écrire directement sur le clavardage de notre site web, nous écrire un courriel à info@sportiveplus.com, ou encore téléphoner le service à la clientèle au (450) 456-3580.  Prenez soin de nous mentionner le numéro de votre commande ainsi que votre nom et l'item à rembourser si nécessaire."
+          }
+        },
+        "faq-3-3": {
+          "type": "question",
+          "settings": {
+            "title": "Je veux changer la taille\/couleur d’un article dans ma commande.",
+            "text": "Vous pouvez : nous écrire directement sur le clavardage de notre site web, nous écrire un courriel à info@sportiveplus.com, ou encore téléphoner le service à la clientèle au (450) 456-3580.  Prenez soin de nous mentionner le numéro de votre commande ainsi que votre nom et l'item à échanger.  Veuillez aussi nous préciser la nouvelle grandeur ou couleur désirée."
+          }
+        },
+        "faq-4": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Question sur les guide de tailles",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "faq-4-1": {
+          "type": "question",
+          "settings": {
+            "title": "Voici mesmesures (…), quelle taille devrais-je prendre ?",
+            "text": "<p>Lorsque vous magasinez en ligne, en cliquant sur un item, vous avez accès au guide de taille associé à nos vêtements.  Chaque compagnie a un guide de taille différent.  Vous n'avez qu'à vérifier sous la photo dans « Guide des tailles ».<\/p>"
+          }
+        },
+        "faq-4-2": {
+          "type": "question",
+          "settings": {
+            "title": "À quoi équivaut les grandeurs X à 4X ?  ",
+            "text": "<p>En général, la grandeur X équivaut à 12, 1X à 14w-16w, 2X à 18w-20w, 3X à 22w et 4X à 26w.  Veuillez noter que le « W » signifie «Wide» pour la taille plus.  Prenez aussi en compte que chaque compagnie a sa charte de grandeur bien à elle.  C'est pour cette raison que vous pouvez vous fier aux guides de taille fournis.<\/p>"
+          }
+        },
+        "faq-5": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Question sur les produits",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "faq-5-1": {
+          "type": "question",
+          "settings": {
+            "title": "Où sont fait vos vêtements ?",
+            "text": "<p>Concernant les vêtements de la marque Sportive Plus, nous avons encore plusieurs styles qui sont faits ici au Québec!  Vous pouvez consulter notre page web « Fait au Québec/Canada »  https://sportiveplus.com/collections/quebec et https://sportiveplus.com/collections/canada  Malheureusement dû au manque de couturières, nous n'avons d'autres choix que de faire faire en Asie comme la plupart des autres marques.  <\/p>"
+          }
+        },
+        "faq-5-2": {
+          "type": "question",
+          "settings": {
+            "title": "Je cherche un maillot fait pour une grosse poitrine.",
+            "text": "<p><\/p>"
+          }
+        },
+        "faq-5-3": {
+          "type": "question",
+          "settings": {
+            "title": "Est-ce que (unproduit) va revenir en stock ?",
+            "text": "<p><\/p>"
+          }
+        },
+        "faq-6": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Question sur les Boutiques",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "faq-6-1": {
+          "type": "question",
+          "settings": {
+            "title": "Est-ce que le magasin de St-Clet est encore ouvert?",
+            "text": "<p>Non.  La boutique de St-Clet a déménagé dans la ville de Vaudreuil-Dorion pour mieux vous servir!  La boutique est rendue au 585 av. Saint-Charles, Vaudreuil-Dorion, J7V 8P9.p><a href=\"https:\/\/sportiveplus.com\/pages\/virtual-tours\" target=\"_blank\" title=\"Nos boutiques\">Visiter la page<br\/>de nos boutiques.<\/a><\/p>"
+          }
+        },
+        "faq-6-2": {
+          "type": "question",
+          "settings": {
+            "title": "Où a déménagé la boutique de Laval ?",
+            "text": "<p>a.	La boutique de Laval est déménagée à seulement quelques coins de rue de l'ancien magasin, au 1680 Boulevard de l'Avenir, Laval, H7S 2N4.<\/p><p><a href=\"https:\/\/sportiveplus.com\/pages\/virtual-tours\" target=\"_blank\" title=\"Nos boutiques\">Visiter la page<br\/>de nos boutiques.<\/a><\/p>"
+          }
+        },
+        "faq-6-3": {
+          "type": "question",
+          "settings": {
+            "title": "Où sont vos boutiques ?",
+            "text": "<p>Nous avons 4 boutiques, Vaudreuil-Dorion, Laval, Brossard et Québec.  Voici le lien pour les trouver :<p><a href=\"https:\/\/sportiveplus.com\/pages\/virtual-tours\" target=\"_blank\" title=\"Nos boutiques\">Visiter la page<br\/>de nos boutiques.<\/a><\/p>"
+          }
+        },
+        "faq-6-4": {
+          "type": "question",
+          "settings": {
+            "title": "Est-ce que les boutiques sont ouvertes pour (férié en particulier) ?",
+            "text": "<p>a.	Concernant les jours fériés, il y a quelques jours où les boutiques sont fermées.  Les voici : Noël 25 décembre, Jour de l'an 1er janvier, Dimanche de Pâques, Fête nationale 24 juin, Fête du Canada 1er juillet, Fête du travail (premier lundi de septembre).  Veuillez noter que nos boutiques sont ouvertes lors des journées fériées suivantes :  Vendredi Saint ou Lundi de Pâques, Fête des patriotes ou Fête de la Reine, Action de Grâce.<\/p>"
+          }
+        },
+        "faq-6-5": {
+          "type": "question",
+          "settings": {
+            "title": "J’aimerais postuler à (une de nos 4 boutiques), comment je fais ?",
+            "text": "<p>Vous pouvez vous présenter directement en boutique pour laisser votre CV, ou encore envoyez un courriel à info@sportiveplus.com<\/p>"
+          }
+        },
+        "faq-7": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Question sur les coupons rabais",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "faq-7-1": {
+          "type": "question",
+          "settings": {
+            "title": "J’ai rentré mon adresse courriel mais je n’ai pas reçu le code de 15%.",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "faq-7-2": {
+          "type": "question",
+          "settings": {
+            "title": "Comment je fais pour avoir un code de 15% pour mon anniversaire ? ",
+            "text": "<p>a.	Si vous n'avez pas reçu votre rabais anniversaire comme à l'habitude, ne vous inquiétez pas!  Notre système a changé il y a quelques temps, et pour des raisons de sécurité, il n'a pas été possible de transférer ces données.  Veuillez nous écrire directement sur le clavardage de notre site web, nous écrire un courriel à info@sportiveplus.com, nous téléphoner au service à la clientèle au (450) 456-3580 ou encore directement en boutique lors de votre prochaine visite.  Prenez soin de nous mentionner votre nom, courriel et date de naissance.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+    "faq-0",
+    "faq-1",
+		"faq-1-1",
+		"faq-1-2",
+		"faq-1-3",
+		"faq-1-4",
+    "faq-2",
+		"faq-2-1",
+		"faq-3",
+		"faq-3-1",
+		"faq-3-2",
+		"faq-3-3",
+    "faq-4",
+    "faq-4-1",
+		"faq-4-2",
+		"faq-5",
+		"faq-5-1",
+		"faq-5-2",
+		"faq-5-3",
+		"faq-6",
+		"faq-6-1",
+		"faq-6-2",
+		"faq-6-3",
+		"faq-6-4",
+		"faq-6-5",
+		"faq-7",
+		"faq-7-1",
+		"faq-7-2"
+      ],
+      "settings": {
+        "title": "FAQ"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "faq"
+  ]
+}
